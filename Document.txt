@@ -1,0 +1,20 @@
+COMPTE RENDUE /
+MEMBRES PRESENTS / 
+	BAH IVEN
+	SORO LEVI
+	TRAORE ELIE
+	TRAORE TIDIANE
+MEMBRES EXCUSEES /
+	AKAGBOR KEKELI
+
+	
+PROGRAME DU JOUR 
+-revision sur github [check]
+-init gantt project && project libre [check]
+- la méthode Agile && SCRUM [check]
+-modélisation d'un cahier de charge [no check]
+-profile github [OK]
+- installation de git bash
+-initiation a gitbash
+
+
