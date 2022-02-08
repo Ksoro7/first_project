@@ -6,15 +6,74 @@ MEMBRES PRESENTS /
 	TRAORE TIDIANE
 MEMBRES EXCUSEES /
 	AKAGBOR KEKELI
+	*/problème de communication*
 
+ABSENTS /
+	KOUA YAHN ETTIEN AXEL
+	GERARD KOFFI
 	
 PROGRAME DU JOUR 
 -revision sur github [check]
 -init gantt project && project libre [check]
-- la m�thode Agile && SCRUM [check]
--mod�lisation d'un cahier de charge [no check]
+- la m�thode Agile && SCRUM [check]
+-mod�lisation d'un cahier de charge [no check]
 -profile github [OK]
-- installation de git bash
--initiation a gitbash
+- installation de git bash [CHECK]
+-initiation a gitbash [CHECK]
+-test create repository [project]
+
+/COMPTE RENDU DU 07/02/2K22
+
+MEMBRES PRESENTS /
+	BAH IVEN
+	SORO LEVI
+	TRAORE ELIE
+	TRAORE TIDIANE
+	AKAGBOR KEKELI
+MEMBRE EXCUSEES/
+	AUCUN
+	*/problème de communication*
+	
+ABSENTS /
+	KOUA YAHN ETTIEN AXEL
+	GERARD KOFFI
+
+	
+
+	PROGRAMME DU JOUR
+-seance de compréhension [CHECK]
+		* Portée du projet [check] /* comprendre les objectifs du projets , environnement metier*/
+		* Spécification [check]
+		* fonctionnalités [check]
+- PLAN DE DEVELOPPEMENT [CHECK]
+
+-repartion des tâches[NO_check].
+/
+/COMPTE RENDU DU 08/02/2022
+
+
+MEMBRES PRESENTS /
+	BAH IVEN
+	SORO LEVI
+	TRAORE ELIE
+	TRAORE TIDIANE
+	AKAGBOR KEKELI
+MEMBRE EXCUSEES/
+	AUCUN
+	*/problème de communication*
+	
+ABSENTS /
+	KOUA YAHN ETTIEN AXEL
+	GERARD KOFFI
+
+
+	PROGRAMME DU JOUR
+ORGANISATION DE L'EQUIPE EN DEUX SOUS EQUIPE /
+	EQUIPE D'ARCHITECTURE RESPONSABLE DE LA CONCEPTION DU DESIGN 
+	EQUIQUE DE CONCEPTIONET DE DEVELOPPEMENT DES FONCTIONNALITE ET SPECIALITE DU PROJET 
+FIN DU PROGRAME 13 AU PLUS TARD 14 FEVRIER....
+
+
+
 
 
